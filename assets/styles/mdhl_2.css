@@ -25,6 +25,10 @@ body{
     position: absolute;
     top: 1rem;
 }
+.logoinf{
+    position: relative;
+    left: 3rem;
+}
 h1{
     text-align: center;
     margin: 1rem;
